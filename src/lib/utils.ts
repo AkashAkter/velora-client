@@ -57,7 +57,7 @@ export const withToast = async <T>(
   }
 };
 
-// user create function
+
 export const createNewUserInDatabase = async (
   user: any,
   idToken: any,
